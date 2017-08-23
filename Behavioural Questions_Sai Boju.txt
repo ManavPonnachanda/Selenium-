@@ -1,0 +1,55 @@
+Down the lane 3 years what do you want to be ?
+I wanted to be a key person in my team who can definetely benifit the organization by giving inputs so i would be a technical lead where i can lead my team and 
+also i can handle my automation responsibilities. I will adopt new technologies. 
+you can also say:
+-- I wanted to be an technical qa architect
+--I wanted to be an Sr Automation Lead
+--I wanted to be a Project Manager
+-- I wanted to be a Scrum Master
+
+What Technical Difficulties you faced as a QA test engineer?
+While i was doing manual testing, i faced a issue of time constraint and then when coming to automation, we had issue with Selenium captacha, bar code automation. 
+So, there as i was the only Sr Qa in my team who had to deal with this i have learnt third party tool called auto it and automated it by giving its path. 
+--I also dealt with Ajax request , for synchroniation which i resolved by using waits and giving conditions. 
+
+What architecture you used?
+We used Hybrid approach, we used data driven, key drivena and page object model. 
+For appliction, we use n-tier , 3-tier we used. 
+It had Web layer( jsp), business logic layer and back end.
+(Describe relating to your project about 3 tier or n-tier)
+
+Technical Profile ?
+Hi this is Sai Boju. I am a Sr QA Automation Test Engineer with over 8 years of experience. My major was computer science and information systems. I am a java 
+certified and ISTQB certified professional. I have worked with both Manual and Automation testing. I have worked on different diversified domains like banking, 
+insurance and health care. i have extensively worked on banking domain. I have used different tools like Selenium, Java and Cucumber. For Continuous integration we 
+used Jenkins, for build tool i have been using Maven. For webservices i used soap ui and restful web services. I worked in both Agile and Waterfall environments. 
+I have developed framework from scratch. I was working on Data driven framework, hybrid framework and page object model as a design pattern. 
+
+Day to Day Activities?
+My Day starts with daily scrum call where we will discuss what did we do yesterday what am i going to do today and any impedimens , i would check all my emails, 
+voicemails, reply back, attend meetings if any, i would work on the tasks assigned to me and end my day with logging all my tasks performed on that day into 
+jira/rally. If it is a sprint last day i would attend my sprint review meeting where i give demo of the work performed in that sprint and if it is the last day of
+the sprint i would attend sprint retrospective meeting where i would discuss about the scrum and improvements to be made in the scrum.
+
+Why should i hire you ?
+-As u know, i have worked as a lead for 3 years so i have a capability of leading of group of people. 
+-That shows i am a very good team player.
+-I am a Java and ISTQB certified professional, so that would add value to my technical profile.
+-I have worked on banking domain for 3 years so i know in and out of the project and i can work on it(Stress your domain)
+-I was involved in all phases of SDLC and STLC so  i can work with the project with a healthy flow. 
+-I recieved Best performer award in my office twice for my performance.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
